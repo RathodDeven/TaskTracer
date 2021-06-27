@@ -4,6 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Screen Shots
 
+![image](https://github.com/RathodDeven/TaskTracer/blob/master/Screenshot%20(172).png?raw=true)
+
+![image](https://github.com/RathodDeven/TaskTracer/blob/master/Screenshot%20(173).png?raw=true)
+
+![image](https://github.com/RathodDeven/TaskTracer/blob/master/Screenshot%20(174).png?raw=true)
+
+![image](https://github.com/RathodDeven/TaskTracer/blob/master/Screenshot%20(175).png?raw=true)
+
 
 
 ## Available Scripts
